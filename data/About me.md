@@ -16,9 +16,9 @@
 
 |   自學技能   |   遊戲坑單   | Center align |
 |:-----------|------------:|:------------:|
-| UTAU       |            - |     This     |
-| SynthV     |      column |    column    |
-| Vocaloid   |        will |     will     |
+| UTAU       | ブルーアーカイブ |     This     |
+| SynthV     |      プロセカ |    column    |
+| Vocaloid   |   Minecraft |     will     |
 | Python     |          be |      be      |
 | 基礎樂理     |       right |    center    |
 | 基礎混音     |     aligned |   aligned    |
