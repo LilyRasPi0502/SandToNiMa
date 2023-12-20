@@ -14,9 +14,9 @@
 |:-----------:|:------------:|
 | UTAU       | ブルーアーカイブ |
 | SynthV     |      プロセカ |
-| Vocaloid   |   Minecraft |
-| Python     |      純白和弦 |
-| 基礎樂理     |    ARCAEA   |
+| Vocaloid   | Minecraft(Java) |
+| Python     |  ~~純白和弦~~ |
+| 基礎樂理     |  ~~ARCAEA~~ |
 | 基礎混音     |     無       |
 
 ![RickRoll](https://github.com/LilyRasPi0502/SandToNiMa/blob/main/data/files/895ce751ba0379700381d17a67086931.gif)
