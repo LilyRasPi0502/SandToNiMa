@@ -14,11 +14,11 @@
 | SynthV | - |
 | Vocaloid | - |
 
-|   自學技能   |   遊戲坑單   | Center align |
-|:-----------|:------------:|:------------:|
-| UTAU       | ブルーアーカイブ |     This     |
-| SynthV     |      プロセカ |    column    |
-| Vocaloid   |   Minecraft |     will     |
-| Python     |          be |      be      |
-| 基礎樂理     |       right |    center    |
-| 基礎混音     |     aligned |   aligned    |
+|   自學技能   |   遊戲坑單   |
+|:-----------:|:------------:|
+| UTAU       | ブルーアーカイブ |
+| SynthV     |      プロセカ |
+| Vocaloid   |   Minecraft |
+| Python     |          be |
+| 基礎樂理     |       right |
+| 基礎混音     |     aligned |
