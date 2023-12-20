@@ -1,3 +1,5 @@
+![RickRoll](https://github.com/LilyRasPi0502/SandToNiMa/blob/main/data/files/895ce751ba0379700381d17a67086931.gif)
+
 # About me
 ## 基本資料
 > - 姓名:南部P(ミナベP)
@@ -20,4 +22,3 @@
 | 基礎樂理     |  ~~ARCAEA~~ |
 | 基礎混音     |     無       |
 
-![RickRoll](https://github.com/LilyRasPi0502/SandToNiMa/blob/main/data/files/895ce751ba0379700381d17a67086931.gif)
