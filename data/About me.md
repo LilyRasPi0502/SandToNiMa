@@ -14,7 +14,7 @@
 |SynthV|-|
 |Vocaloid|-|
 
-| Left align | Right align | Center align |
+|   自學技能   | Right align | Center align |
 |:-----------|------------:|:------------:|
 | This       |        This |     This     |
 | column     |      column |    column    |
