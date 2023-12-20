@@ -15,6 +15,6 @@
 | UTAU       | ブルーアーカイブ |
 | SynthV     |      プロセカ |
 | Vocaloid   |   Minecraft |
-| Python     |          be |
-| 基礎樂理     |       right |
-| 基礎混音     |     aligned |
+| Python     |      純白和弦 |
+| 基礎樂理     |    ARCAEA   |
+| 基礎混音     |     無       |
