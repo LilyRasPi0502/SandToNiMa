@@ -6,7 +6,7 @@
 >   - 聽音樂
 >   - 看動畫、漫畫
 >   - 玩遊戲
-> - Yt頻道:[南部P](https://youtube.com/@MinabeP_0502?si=eJRCAK6jnzh0ebeJ)
+> - ~~Yt頻道:[南部P](https://youtube.com/@MinabeP_0502?si=eJRCAK6jnzh0ebeJ)~~
 
 ## 進階資訊
 
