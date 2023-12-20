@@ -14,11 +14,11 @@
 | SynthV | - |
 | Vocaloid | - |
 
-|   自學技能   | 遊戲坑單 | Center align |
+|   自學技能   |   遊戲坑單   | Center align |
 |:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+| UTAU       |            - |     This     |
+| SynthV     |      column |    column    |
+| Vocaloid   |        will |     will     |
+| Python     |          be |      be      |
+| 基礎樂理     |       right |    center    |
+| 基礎混音     |     aligned |   aligned    |
